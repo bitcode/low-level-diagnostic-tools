@@ -101,3 +101,6 @@ This repository is designed as a reference guide. Contributions to improve docum
 ## License
 
 This documentation is provided for educational purposes. All tools mentioned are subject to their own licenses and terms of use.
+## AI Agent Skills for Windows Diagnostics
+
+- **[bsod-analyzer](https://github.com/sitabanubanu/bsod-analyzer)** - Complete Windows BSOD diagnosis pipeline for Claude Code and Codex. Automates dump analysis (WinDbg !analyze -v, pool tag decode, ghost driver detection), 18-point system audit for driver remnants, and cleanup with verification. Includes 62 BugCheck codes and known-bad driver database. Runs with zero dependencies via four degradation levels.
